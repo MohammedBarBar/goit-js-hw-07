@@ -21,3 +21,7 @@ instance.on("show.simplelightbox", function () {
   instance.defaultOptions.captionPosition = "bottom";
   instance.defaultOptions.captionDelay = 250;
 });
+
+// function linkStandardAction(event) {
+//   event.preventDefault();
+// }
